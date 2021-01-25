@@ -8,4 +8,4 @@ Windows bootloader from internal storage.
 
 Framebuffer is broken at this point.
 
-Source needs to be cleaned and uploaded here.
+Source is uploaded partially here.

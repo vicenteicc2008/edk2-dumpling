@@ -16,7 +16,7 @@
 
 [Defines]
   INF_VERSION                    = 0x00010005
-  BASE_NAME                      = OnePlus5tAcpiTables
+  BASE_NAME                      = OnePlus5AcpiTables
   FILE_GUID                      = 7E374E25-8E01-4FEE-87F2-390C23C606CD # Must be this
   MODULE_TYPE                    = USER_DEFINED
   VERSION_STRING                 = 1.0
@@ -28,7 +28,7 @@
   Fadt.aslc
   Gtdt.aslc
   Madt.aslc
-  #AcpiSsdtRootPci.asl          # Dumpling R1 specific
+  #AcpiSsdtRootPci.asl          # Juno R1 specific
 
 [Packages]
   ArmPkg/ArmPkg.dec
@@ -36,7 +36,7 @@
   EmbeddedPkg/EmbeddedPkg.dec
   MdePkg/MdePkg.dec
   MdeModulePkg/MdeModulePkg.dec
-  OnePlus5tPkg/OnePlus5tPkg.dec
+  OnePlus5Pkg/OnePlus5Pkg.dec
 
 [FixedPcd]
   gArmPlatformTokenSpaceGuid.PcdCoreCount

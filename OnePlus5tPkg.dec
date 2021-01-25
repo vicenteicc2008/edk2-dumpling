@@ -37,7 +37,7 @@
 
 [PcdsFixedAtBuild.common]
   # Simple FrameBuffer
-  gOnePlus5tPkgTokenSpaceGuid.PcdMipiFrameBufferAddress|0x9d400000|UINT32|0x0000a400
+  gOnePlus5tPkgTokenSpaceGuid.PcdMipiFrameBufferAddress|0x00400000|UINT32|0x0000a400
   gOnePlus5tPkgTokenSpaceGuid.PcdMipiFrameBufferWidth|1080|UINT32|0x0000a401
   gOnePlus5tPkgTokenSpaceGuid.PcdMipiFrameBufferHeight|2160|UINT32|0x0000a402
   gOnePlus5tPkgTokenSpaceGuid.PcdMipiFrameBufferPixelBpp|32|UINT32|0x0000a403

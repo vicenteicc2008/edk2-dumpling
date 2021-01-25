@@ -152,7 +152,7 @@
 
   gOnePlus5tPkgTokenSpaceGuid.PcdMipiFrameBufferAddress|0x9d400000
   gOnePlus5tPkgTokenSpaceGuid.PcdMipiFrameBufferWidth|1440
-  gOnePlus5tPkgTokenSpaceGuid.PcdMipiFrameBufferHeight|2960
+  gOnePlus5tPkgTokenSpaceGuid.PcdMipiFrameBufferHeight|2160
 
   gEfiMdeModulePkgTokenSpaceGuid.PcdAcpiExposedTableVersions|0x20
 

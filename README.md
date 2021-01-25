@@ -10,5 +10,5 @@ Framebuffer is broken at this point. I edited the framebuffer settings, but they
 
 Source is uploaded partially here.
 
-Building: move all files and folders to "buildfolder" and run build.sh as root.
+Building: move all files and folders to "buildfolder/sdm835/OnePlus5tPkg" and run build.sh as root.
 Tested on Ubuntu 20.04 and all releases are compiled on 20.04.

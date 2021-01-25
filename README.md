@@ -9,3 +9,6 @@ Windows bootloader from internal storage.
 Framebuffer is broken at this point. I edited the framebuffer settings, but they are not tested.
 
 Source is uploaded partially here.
+
+Building: move all files and folders to "buildfolder" and run build.sh as root.
+Tested on Ubuntu 20.04 and all releases are compiled on 20.04.

@@ -4,9 +4,7 @@ EDK2 UEFI for Oneplus 5T
 Based on Samsung Galaxy S8 and Oneplus 5 UEFI firmwares.
 
 Highly experimental and more a proof of concept. Can load 
-Windows bootloader from internal storage.
-
-Framebuffer is broken at this point. I edited the framebuffer settings, but they are not tested.
+Windows PE from internal storage cache partition formatted as FAT.
 
 Source is uploaded partially here.
 
